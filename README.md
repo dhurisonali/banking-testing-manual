@@ -13,7 +13,6 @@ This project involves manual testing of the core modules of a sample online bank
 ## 📋 Artifacts
 - Test Cases: /Test-Cases/banking_test_cases.xlsx
 - Bug Report: /Bug-Reports/banking_bug_report.xlsx
-- Screenshots (optional)
 
 ## 🛠️ Tools Used
 - Excel (for test cases and bugs)
